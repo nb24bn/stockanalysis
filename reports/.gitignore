@@ -1,0 +1,9 @@
+__pycache__/
+.env
+*.pyc
+*.pkl
+venv/
+*.csv
+top_stock_recommendations.csv
+training_data.csv
+reports/

@@ -1,0 +1,9 @@
+Ticker,Close,Signal,Rule-Based Score,Rule-Based Label,ML Prediction,Confidence (%),News
+INFY.NS,1594.9,BUY,4,High Potential,High Potential,98.57,"Wipro, Infosys ADRs plunge up to 6% after TCS Q1 earnings announcement - The Economic Times"
+GOOGL,179.65,HOLD,3,High Potential,Not High Potential,97.09,"GOOGL lags tech peers despite AI rally, with weekly loss at 1.35% - Traders Union"
+^NSEI,25149.85,BUY,3,High Potential,High Potential,96.25,"Individual investors invested in Laurus Labs Limited (NSE:LAURUSLABS) up 4.6% last week, insiders too were rewarded - simplywall.st"
+TCS.NS,3266.0,HOLD,2,Not High Potential,Not High Potential,84.79,"TCS Q1 profit up 6%, attrition at 13.8%, CEO says ‘geo-political uncertainties caused demand contraction’ - financialexpress.com"
+AAPL,210.86,HOLD,1,Not High Potential,Not High Potential,96.71,AAPL: New Budget MacBook Hints at Fresh Strategy — While a $490M Settlement Offers a Look Back - TradingView
+MSFT,504.25,HOLD,1,Not High Potential,Not High Potential,92.31,"Microsoft Corporation (MSFT) Has Had An “Incredible” Run, Says Jim Cramer - Insider Monkey"
+VOO,572.97,HOLD,1,Not High Potential,Not High Potential,96.09,Should Vanguard S&P 500 ETF (VOO) Be on Your Investing Radar? - Yahoo Finance
+TSLA,309.3,HOLD,0,Not High Potential,Not High Potential,79.31,Wall Street Isn’t Giving Up on Tesla (TSLA)—Here’s Why RBC Still Likes the Stock - Insider Monkey

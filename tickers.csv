@@ -1,0 +1,33 @@
+Ticker,Name,Index,Country,Sector
+AAPL,Apple Inc,S&P 500,US,Technology
+MSFT,Microsoft Corp,S&P 500,US,Technology
+TSLA,Tesla Inc,S&P 500,US,Automotive
+GOOGL,Alphabet Inc,S&P 500,US,Technology
+AMZN,Amazon.com Inc,S&P 500,US,Consumer Discretionary
+META,Meta Platforms Inc,S&P 500,US,Technology
+BRK.B,Berkshire Hathaway Inc,S&P 500,US,Financials
+JPM,JPMorgan Chase & Co,S&P 500,US,Banking
+NVDA,NVIDIA Corporation,S&P 500,US,Technology
+V,Visa Inc,S&P 500,US,Financials
+UNH,UnitedHealth Group,S&P 500,US,Healthcare
+HD,Home Depot Inc,S&P 500,US,Consumer Discretionary
+PEP,PepsiCo Inc,S&P 500,US,Consumer Staples
+XOM,Exxon Mobil Corp,S&P 500,US,Energy
+KO,Coca-Cola Co,S&P 500,US,Consumer Staples
+VOO,Vanguard S&P 500 ETF,S&P 500,US,ETF
+
+^NSEI,Nifty 50 Index,NIFTY 50,India,Index
+RELIANCE.NS,Reliance Industries,NIFTY 50,India,Energy
+TCS.NS,Tata Consultancy Services,NIFTY 50,India,IT
+INFY.NS,Infosys Ltd,NIFTY 50,India,IT
+HDFCBANK.NS,HDFC Bank Ltd,NIFTY 50,India,Banking
+ICICIBANK.NS,ICICI Bank Ltd,NIFTY 50,India,Banking
+HINDUNILVR.NS,Hindustan Unilever Ltd,NIFTY 50,India,Consumer Staples
+LT.NS,Larsen & Toubro Ltd,NIFTY 50,India,Infrastructure
+SBIN.NS,State Bank of India,NIFTY 50,India,Banking
+BHARTIARTL.NS,Bharti Airtel Ltd,NIFTY 50,India,Telecom
+AXISBANK.NS,Axis Bank Ltd,NIFTY 50,India,Banking
+ASIANPAINT.NS,Asian Paints Ltd,NIFTY 50,India,Consumer Discretionary
+ITC.NS,ITC Ltd,NIFTY 50,India,Consumer Staples
+SUNPHARMA.NS,Sun Pharma Ltd,NIFTY 50,India,Pharmaceuticals
+BAJFINANCE.NS,Bajaj Finance Ltd,NIFTY 50,India,Finance
